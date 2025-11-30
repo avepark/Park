@@ -1,13 +1,5 @@
 # Park
 
-Park has major.
-
-Park has major on alpha.
-
-Park is major only.
-
-Park will happen inf human done it.
-
 Park has Mark.
 
 Park is base on Gain.
