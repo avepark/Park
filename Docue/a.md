@@ -46,7 +46,7 @@ The spell is:
 "P" for Plane Titan.
 "a" for any class.
 "r" for radius total.
-"k" for kind time.
+"k" for kind all.
 
 PARK is most outer, inf base on Gain.
 
