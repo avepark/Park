@@ -36,13 +36,6 @@ PARK HAS KIND CIVE.
 
 Park word has spell.
 The spell is:
-"P" for Park Super.
-"a" for all live.
-"r" for radius gain.
-"k" for kind cive.
-
-Park word has spell.
-The spell is:
 "P" for Plane Titan.
 "a" for any class.
 "r" for radius total.
